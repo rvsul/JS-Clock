@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Oswald:wght@200;300&display=swap');\r\n\r\nbody{\r\n    background: black;\r\n}\r\n.clock{\r\n    position: absolute;\r\n    top: 50%;\r\n    left: 50%;\r\n    color: #17D4FE;\r\n    transform: translateX(-50%) translateY(-50%);\r\n    font-size: 60px;\r\n    font-family: 'Orbitron';\r\n    letter-spacing: 7px;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,OAAO,CAAC,6HAAI;;AAEZ,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,KAAK;CACpB;;;AACD,AAAA,MAAM,CAAA;EACF,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,GAAG;EACT,KAAK,EAAE,OAAO;EACd,SAAS,EAAE,gBAAgB,CAAC,gBAAgB;EAC5C,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,UAAU;EACvB,cAAc,EAAE,GAAG;CACtB"
+}
